@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sanzith Alam</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<img align="right" alt="Coding" width="420" height="400" src="https://www.gifcen.com/wp-content/uploads/2023/06/hacker-gif-6.gif">
+<img align="right" alt="Coding" width="420"  src="https://www.gifcen.com/wp-content/uploads/2023/06/hacker-gif-6.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanzith&label=Profile%20views&color=0e75b6&style=flat" alt="sanzith" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sanzithalam11" target="blank"><img src="https://img.shields.io/twitter/follow/sanzithalam11?logo=twitter&style=for-the-badge" alt="sanzithalam11" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React and MERN**
 
 - 👨‍💻 All of my projects are available at [https://myportfolio-sooty-two-53.vercel.app/](https://myportfolio-sooty-two-53.vercel.app/)
 
