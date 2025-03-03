@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/sanzithalam11" target="blank"><img src="https://img.shields.io/twitter/follow/sanzithalam11?logo=twitter&style=for-the-badge" alt="sanzithalam11" /></a> </p>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://myportfolio-sooty-two-53.vercel.app/](https://myportfolio-sooty-two-53.vercel.app/)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **sanzithalam11@gmail.com**
 
