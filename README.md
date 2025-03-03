@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanzith Alam</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<img align="right" alt="Coding" width="400" height="800" src="https://www.gifcen.com/wp-content/uploads/2023/06/hacker-gif-6.gif">
+<img align="right" alt="Coding" width="400" height="500" src="https://www.gifcen.com/wp-content/uploads/2023/06/hacker-gif-6.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanzith&label=Profile%20views&color=0e75b6&style=flat" alt="sanzith" /> </p>
 
