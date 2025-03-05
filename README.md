@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **sanzithalam12@gmail.com**
+- 📫 How to reach me **sanzithalam11@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
