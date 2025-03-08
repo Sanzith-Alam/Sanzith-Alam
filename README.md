@@ -15,22 +15,23 @@
 
 - ⚡ Fun fact **I am funny**
 
-<h2>🚀 Languages and Tools I Use</h2>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/cplusplus-colored.svg" alt="C++" />
-</picture></a> &nbsp;
+<h2>💻 Core</h2>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><picture>
 <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/c-colored.svg" alt="C" />
+</picture></a> &nbsp;
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><picture>
+<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/cplusplus-colored.svg" alt="C++" />
 </picture></a> &nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><picture>
 <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" />
 </picture></a> &nbsp;
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/php-colored.svg" alt="PHP" />
-</picture></a> &nbsp;
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><picture>
 <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/python-colored.svg" alt="Python" />
 </picture></a> &nbsp;
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><picture>
+<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/php-colored.svg" alt="PHP" />
+</picture></a> &nbsp;
+<h2>💻 Frontend Tools and Frameworks</h2>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><picture>
 <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/html5-colored.svg" alt="HTML5" />
 </picture></a> &nbsp;
@@ -46,9 +47,13 @@
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><picture>
 <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/css3-colored.svg" alt="CSS3" />
 </picture></a> &nbsp;
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><picture>
+<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/vite-colored.svg" alt="Vite" />
+</picture></a> &nbsp;
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><picture>
 <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" />
 </picture></a> &nbsp;
+<h2>💻 Backend and Database</h2>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><picture>
 <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" />
 </picture></a> &nbsp;
@@ -64,9 +69,7 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><picture>
 <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/mysql-colored.svg" alt="MySQL" />
 </picture></a> &nbsp;
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/git-colored.svg" alt="Git" />
-</picture></a> &nbsp;
+<h2💻 UI/UX </h2>
 <a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><picture>
 <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/aftereffects-colored-dark.svg" alt="After Effects" />
 </picture></a> &nbsp;
@@ -79,11 +82,19 @@
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><picture>
 <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/blender-colored.svg" alt="Blender" />
 </picture></a> &nbsp;
+<h2>💻 Cloud and Devops</h2>
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><picture>
 <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" />
 </picture></a> &nbsp;
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><picture>
 <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" />
+</picture></a> &nbsp;
+<h2>💻 Other</h2>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><picture>
+<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/git-colored.svg" alt="Git" />
+</picture></a> &nbsp;
+<a href="https://www.linux.org" target="_blank" rel="noreferrer"><picture>
+<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/linux-colored.svg" alt="Linux" />
 </picture></a> &nbsp;
 
 <h2>⚡️ Where to find me</h2>
