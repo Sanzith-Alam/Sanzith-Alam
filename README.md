@@ -105,5 +105,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanzith-Alam&" alt="Sanzith-Alam" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanzith-Alam&show_icons=true&locale=en&layout=compact" alt="Sanzith-Alam" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sanzith-Alam" alt="Sanzith-Alam" /></a></p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
