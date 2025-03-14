@@ -1,6 +1,7 @@
 <h1>Hi 👋, I'm Sanzith Alam</h1>
 <p>A passionate frontend developer from Bangladesh</p>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/LZIL.mp4">
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/LZIL.mp4">">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanzith&label=Profile%20views&color=0e75b6&style=flat" alt="sanzith" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sanzithalam11" target="blank"><img src="https://img.shields.io/twitter/follow/sanzithalam11?logo=twitter&style=for-the-badge" alt="sanzithalam11" /></a> </p>
