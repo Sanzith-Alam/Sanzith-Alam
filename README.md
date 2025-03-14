@@ -1,6 +1,9 @@
 <h1>Hi 👋, I'm Sanzith Alam</h1>
 <p>A passionate frontend developer from Bangladesh</p>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/LZIL.mp4">">
+<video align="right" width="400" autoplay loop muted>
+  <source src="https://i.gifer.com/LZIL.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanzith&label=Profile%20views&color=0e75b6&style=flat" alt="sanzith" /> </p>
 
